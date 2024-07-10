@@ -7,7 +7,7 @@ We are building Flashbots Research as a research hub for MEV, tackling and uncov
 ## Research Topics
 Our research covers a wide array of topics centered around the MEV theme. Several of these topics are directly related to our auction system and are meant as initial explorations around problems that will eventually need to be solved for our project to ultimately succeed. Other topics are more loosely related, and are part of our wider effort to illuminate the MEV landscape to level the playing field for all actors involved.
 
-A list of the research topics we are either currently working on, or on which we would like to advance our knowlegde can be found [here](topics.md). You can read some of the research we've released [here](https://writings.flashbots.net/research).
+A list of the research topics we are either currently working on, or on which we would like to advance our knowledge can be found [here](topics.md). You can read some of the research we've released [here](https://writings.flashbots.net/research).
 
 ## Flashbots Research Proposals
 To fuel the collaborative nature of our research, we have a process in place for Flashbots Research Proposal (FRPs), where anybody can submit a research proposal for consideration. Upon community review, proposals will be considered for becoming part of our research, and might become eligible for a grant.
